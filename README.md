@@ -6,6 +6,7 @@ Follow the steps below carefully to ensure your package is accepted and publishe
 
 ---
 
+> IMPORTANT NOTICE! If you notice that if the latest version was for example "v1.0.4" and you get an update for "v1.0.4.post1" for example that means someone's package got accepted!!!
 
 ## 📦 Publishing a Package
 
