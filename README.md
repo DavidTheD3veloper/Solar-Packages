@@ -6,18 +6,6 @@ Follow the steps below carefully to ensure your package is accepted and publishe
 
 ---
 
-## 🔐 Token Generation (Required)
-
-> **This step is required to verify your identity.**
-
-1. Open the token generation website listed in **`LINKS.md`**.
-2. Fill out the form.
-3. Click **Generate Token**.
-4. Save your token securely — you’ll need it later.
-
-Once this is done, you’re ready to publish.
-
----
 
 ## 📦 Publishing a Package
 
