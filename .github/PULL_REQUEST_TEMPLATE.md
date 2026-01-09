@@ -4,7 +4,7 @@ This template MUST be filled out for your Pull Request to be accepted!
 
 # Solar Package Requirements
 
-<!-- If your package fails the CI test/doesn't meet the requirements below, your PR is pretty much declined :D -->
+<!-- If your package doesn't meet the requirements below, your PR is pretty much declined :D -->
 <!-- Change each checkbox to [x] (all lowercase, no spaces between the brackets) to mark it as completed -->
 
 - [ ] My package is **FULLY COMPLETED** and **WORKING**. <!-- Your package must be complete and fully working before sending it in! -->
